@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801777027012",
+    "project_id": "keep-us",
+    "storage_bucket": "keep-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801777027012:android:1e894ee00110204b488691",
+        "android_client_info": {
+          "package_name": "com.keepUs.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801777027012-gfgfqg4soervdklarks8qchfoht4fta4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keepUs.demo",
+            "certificate_hash": "c851fcf70d6b5136ac28a315f43095c32fe3fed4"
+          }
+        },
+        {
+          "client_id": "801777027012-41162vhtmvupajp4mr4nl24rvgob5mde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdmdDAhCc29ghz9cMTUeQeuOsMPh9URo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801777027012-41162vhtmvupajp4mr4nl24rvgob5mde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
